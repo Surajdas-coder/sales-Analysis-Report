@@ -58,3 +58,4 @@ The dashboard presents a clean and interactive interface with key metrics, produ
 >> Project Type: Business Intelligence (BI) Dashboard
 Platform: Power BI
 Purpose: Sales Performance Monitoring and Data-Driven Decision Making
+<img width="1600" height="866" alt="image" src="https://github.com/user-attachments/assets/f87334c4-00a9-4b68-b4cb-b56722edc00d" />
